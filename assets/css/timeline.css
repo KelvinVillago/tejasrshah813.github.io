@@ -44,6 +44,11 @@ h2{
     max-width: 34.15em;
 }
 
+#timeline-image1{
+    height:10%;
+    width:10%;
+}
+
 .checkpoint{
     max-width:34em;
     padding-top: 2em;
